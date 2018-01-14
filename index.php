@@ -1,0 +1,9 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Administrator
+ * Date: 2018/1/14 0014
+ * Time: 16:39
+ */
+
+bootstrup::run();
