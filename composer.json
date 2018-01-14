@@ -1,0 +1,14 @@
+{
+    "name": "longxinhong/test_composer",
+    "description": "test composer craete a project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "longxinhong",
+            "email": "1058524166@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
