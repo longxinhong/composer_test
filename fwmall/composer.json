@@ -1,0 +1,23 @@
+{
+    "name": "longxinhong/fwmall",
+    "description": "fmall",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "longxinhong",
+            "email": "30366837+longxinhong@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "files":[
+          "core/functions.php"
+        ],
+        "psr-4":{
+            "core\\":"core",
+            "api\\":"api"
+        }
+    }
+}
